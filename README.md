@@ -4,7 +4,8 @@
 - 内容
     - 8月23日（周三）：[罗宇矗](http://www.luoyuchu.com)，强化学习入门 [[intro](http://www.luoyuchu.com/talk/reinforcement-learning/)]
     - 8月28日（周一）：[罗宇矗](http://www.luoyuchu.com)，深度强化学习简介 [[intro](http://www.luoyuchu.com/talk/deep-reinforcemnt-learning/)]
-    - 8月29日（周二）：[高飞](http://mil.hdu.edu.cn/people/fei_gao/index.html)，图像质量评价及应用 [[slides](IQA_PQA_BQA_applications_FeiGao.pdf)]
+    
+    - 8月29日（周二）：[高飞](http://mil.hdu.edu.cn/people/fei_gao/index.html)，图像质量评价及应用 [[slides](IQA_PQA_BQA_applications_FeiGao.pdf)]
     - 8月30日（周三）：[谭敏](http://mil.hdu.edu.cn/people/min_tan/index.html)，基于点击数据的图像识别
     - 8月31日（周四）：[余宙](http://mil.hdu.edu.cn/people/zhou_yu/index.html)，现代 CNN 网络结构演化 [[slides](Week_7/slides_zhouyu_CNN_arch_evolution.pdf)]
     - 9月05日（周二）：[余宙](http://mil.hdu.edu.cn/people/zhou_yu/index.html)，视觉内容自动问答 VQA（待上传）
