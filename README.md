@@ -1,4 +1,4 @@
-# CAMA-LAB 机器学习暑期研讨班（2017）
+# MIL 机器学习暑期研讨班（2017）
 
 ## 研讨班技术报告总安排
 - 内容
@@ -8,7 +8,7 @@
     - 8月29日（周二）：[高飞](http://mil.hdu.edu.cn/people/fei_gao/index.html)，图像质量评价及应用 [[slides](IQA_PQA_BQA_applications_FeiGao.pdf)]
     - 8月30日（周三）：[谭敏](http://mil.hdu.edu.cn/people/min_tan/index.html)，基于点击数据的图像识别
     - 8月31日（周四）：[余宙](http://mil.hdu.edu.cn/people/zhou_yu/index.html)，现代 CNN 网络结构演化 [[slides](Week_7/slides_zhouyu_CNN_arch_evolution.pdf)]
-    - 9月05日（周二）：[余宙](http://mil.hdu.edu.cn/people/zhou_yu/index.html)，视觉内容自动问答 VQA（待上传）
+    - 9月05日（周二）：[余宙](http://mil.hdu.edu.cn/people/zhou_yu/index.html)，视觉内容自动问答 VQA
     - 9月06日（周三）：[匡振中](http://mil.hdu.edu.cn/people/zhenzhong_kuang/index.html)，三维形状表达及其应用 [[slides](kuang_3D_Shape_Representation.pdf)]
     - 9月07日（周四）：[朱素果](http://mil.hdu.edu.cn/people/suguo_zhu/index.html)，视觉跟踪方法研究 [[slides](2017.9.7_目标跟踪报告_已更新.pptx)]
 - 地点：东区会议室
