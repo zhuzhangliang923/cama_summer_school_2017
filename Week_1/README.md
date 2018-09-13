@@ -36,7 +36,7 @@
     - [Gradient Descent](http://www.bilibili.com/video/av10590361/#page=3)
     - 视频也可以用 FTP 在 10.65.1.69 服务器上获取，速度更快
 - 其他
-    - [各种距离](http://blog.csdn.net/shiwei408/article/details/7602324)
+    - [各种距离](https://my.oschina.net/hunglish/blog/787596)
     - [机器学习中的Bias(偏差)，Error(误差)，和Variance(方差)有什么区别和联系？](https://www.zhihu.com/question/27068705)
     - [Why Data Scientists Split Data into Train and Test](http://info.salford-systems.com/blog/bid/337783/Why-Data-Scientists-Split-Data-into-Train-and-Test)
     - [K折交叉验证评估模型性能](https://github.com/basicv8vc/Python-Machine-Learning-zh/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/ch6_section2.md)
